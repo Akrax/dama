@@ -1,0 +1,19 @@
+﻿- le pedina diventa un oggetto
+- verifica locazione valida per la pedina(quadrati neri,dentro la scacchiera)
+
+
+
+- posizionare le pedine
+- scegliere una pedina da muovere
+
+
+- definire i movimenti
+
+? è una mossa valida?
+
+- definire i turni
+    - inizia il bianco
+    - cambio giocatore
+
+- giocare la partita
+
